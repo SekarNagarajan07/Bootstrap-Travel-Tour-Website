@@ -38,4 +38,9 @@
   background: #003566;
   color: #f1faee;
 }
+#navbar form button {
+  background: #d90429;
+  color: #f1faee;
+  border: none;
+}
 /* Navbar End */
