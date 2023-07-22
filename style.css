@@ -20,10 +20,10 @@
   margin-bottom: 5px;
 }
 #logo span {
-  color: #ffa500;
+  color: #ef233c;
 }
 .navbar-toggler span {
-  color: #ffa500;
+  color: #000814;
 }
 .navbar-nav {
   margin-left: 20px;
@@ -37,11 +37,11 @@
   transition: 0.5s ease;
 }
 .nav-item .nav-link:hover {
-  background: #ffa500;
+  background: #ef233c;
   color: white;
 }
 #navbar form button {
-  background: orange;
+  background: #ef233c;
   color: white;
   border: none;
 }
@@ -126,7 +126,7 @@
   padding: 10px;
   background: white;
   color: black;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   font-weight: 550;
   border-radius: 5px;
   text-decoration: none;
@@ -165,7 +165,7 @@
   font-weight: 600;
 }
 .main-text h1 span {
-  color: #ffa500;
+  color: #ef233c;
 }
 .book .card {
   border-radius: 10px;
@@ -194,7 +194,7 @@
   width: 160px;
   font-size: 16px;
   font-weight: 550;
-  background: #ffa500;
+  background: #ef233c;
   color: white;
   margin-top: 10px;
   transition: 0.5s;
@@ -220,7 +220,7 @@
   text-shadow: 0px 1px 1px black;
 }
 .main-txt h1 span {
-  color: #ffa500;
+  color: #ef233c;
 }
 .packages .card {
   border-radius: 5px;
@@ -241,7 +241,7 @@
   font-size: 15px;
 }
 .checked {
-  color: #ffa500;
+  color: #ef233c;
 }
 .star i {
   font-size: 15px;
@@ -252,7 +252,7 @@
 .packages .card .card-body a {
   padding: 10px;
   text-decoration: none;
-  background: #ffa500;
+  background: #ef233c;
   color: white;
   border-radius: 5px;
 }
@@ -271,7 +271,7 @@
 .services .card i {
   font-size: 80px;
   text-align: center;
-  color: #ffa500;
+  color: #ef233c;
   margin-top: 20px;
 }
 .services .card .card-body h3 {
@@ -324,7 +324,7 @@
   height: 38px;
   border: none;
   border-radius: 5px;
-  background: #ffa500;
+  background: #ef233c;
   color: white;
   letter-spacing: 2px;
   font-weight: 550;
@@ -354,7 +354,7 @@
   text-shadow: 0px 0px 1px black;
 }
 #footer h1 span {
-  color: #ffa500;
+  color: #ef233c;
 }
 .social-links i {
   padding: 10px;
@@ -368,6 +368,6 @@
   cursor: pointer;
 }
 .social-links i:hover {
-  background: #ffa500;
+  background: #ef233c;
 }
 /* Footer End */
