@@ -98,7 +98,7 @@
     content: "India";
   }
   50% {
-    content: "Pakistan";
+    content: "Eruope";
   }
   60% {
     content: "Italy";
@@ -167,7 +167,7 @@
   font-weight: 600;
 }
 .main-text h1 span {
-  color: #ffa500;
+  color: #003566;
 }
 .book .card {
   border-radius: 10px;
@@ -196,7 +196,7 @@
   width: 160px;
   font-size: 16px;
   font-weight: 550;
-  background: #ffa500;
+  background: #003566;
   color: white;
   margin-top: 10px;
   transition: 0.5s;
@@ -221,7 +221,7 @@
   text-shadow: 0px 1px 1px black;
 }
 .main-txt h1 span {
-  color: #ffa500;
+  color: #003566;
 }
 .packages .card {
   border-radius: 5px;
@@ -242,7 +242,7 @@
   font-size: 15px;
 }
 .checked {
-  color: #ffa500;
+  color: #003566;
 }
 .star i {
   font-size: 15px;
@@ -253,7 +253,7 @@
 .packages .card .card-body a {
   padding: 10px;
   text-decoration: none;
-  background: #ffa500;
+  background: #003566;
   color: white;
   border-radius: 5px;
 }
@@ -271,7 +271,7 @@
 .services .card i {
   font-size: 80px;
   text-align: center;
-  color: #ffa500;
+  color: #003566;
   margin-top: 20px;
 }
 .services .card .card-body h3 {
@@ -322,7 +322,7 @@
   height: 38px;
   border: none;
   border-radius: 5px;
-  background: #ffa500;
+  background: #003566;
   color: white;
   letter-spacing: 2px;
   font-weight: 550;
@@ -351,7 +351,7 @@
   text-shadow: 0px 0px 1px black;
 }
 #footer h1 span {
-  color: #ffa500;
+  color: #003566;
 }
 .social-links i {
   padding: 10px;
@@ -365,6 +365,6 @@
   cursor: pointer;
 }
 .social-links i:hover {
-  background: #ffa500;
+  background: #003566;
 }
 /* Footer End */
